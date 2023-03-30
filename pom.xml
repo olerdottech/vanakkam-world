@@ -32,13 +32,13 @@
     <site>
       <id>site-server</id>
       <name>Test Project Site Releases Nexus Repository</name>
-      <url>file:///tmp/maven-project-site</url>
+      <url>http://54.209.48.237:8081/repository/freerelease/</url>
     </site>
            
    <snapshotRepository>
       <id>site-server</id>
       <name>Test Project Site Releases Nexus Repository</name>
-      <url>file:///tmp/maven-project-site</url>
+      <url>http://54.209.48.237:8081/repository/free/</url>
     </snapshotRepository>        
   </distributionManagement>
 
