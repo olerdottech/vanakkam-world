@@ -29,11 +29,11 @@
   </modules>
 
   <distributionManagement>
-    <site>
+    <repository>
       <id>site-server</id>
       <name>Test Project Site Releases Nexus Repository</name>
       <url>http://54.209.48.237:8081/repository/freerelease/</url>
-    </site>
+    </repository>
            
    <snapshotRepository>
       <id>site-server</id>
